@@ -18,7 +18,7 @@
       <td>2019.09</td>
     </tr>
     <tr>
-      <td>핸드폰 번호 가리기</td>
+      <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12948" rel="nofollow">핸드폰 번호 가리기</td>
       <td>Java</td>
       <td>1</td>
       <td>2019.09</td>
