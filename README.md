@@ -12,7 +12,7 @@
     <th>Difficulty</th>
     <th>Date</th>
     <tr>
-      <td>직사각형 별찍기</td>
+      <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12969" rel="nofollow">직사각형 별찍기</td>
       <td>Java</td>
       <td>1</td>
       <td>2019.09</td>
