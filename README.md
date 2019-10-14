@@ -64,8 +64,14 @@
     </tr>
     <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59035">역순정렬하기</td>
-      <td>Java</td>
-      <td>1</td>
+      <td>MySQL(SELECT)</td>
+      <td>낮음</td>
+      <td>2019.10.15</td>
+    </tr>
+    <tr>
+      <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59404">여러기준으로 정렬하기</td>
+      <td>MySQL(SELECT)<</td>
+      <td>낮음</td>
       <td>2019.10.15</td>
     </tr>
   </table>  
