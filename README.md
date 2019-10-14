@@ -58,7 +58,7 @@
     <th>Date</th>
     <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59034">모든 레코드 조회하기</td>
-      <td>MySQL(SELECT)</td>
+      <td><a hrer="https://github.com/daheewoo/Algorithm/blob/master/programmers/%EB%AA%A8%EB%93%A0%20%EB%A0%88%EC%BD%94%EB%93%9C%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0">MySQL(SELECT)</td>
       <td>낮음</td>
       <td>2019.10.15</td>
     </tr>
