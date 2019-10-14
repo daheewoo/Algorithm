@@ -47,6 +47,12 @@
       <td>1</td>
       <td>2019.09</td>
     </tr>
+     <tr>
+      <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12928">약수의 합</td>
+      <td>Java</td>
+      <td>1</td>
+      <td>2019.10.15</td>
+    </tr>
   </table>  
 <hr>
   <h3>Programmers - SQL</h3>
