@@ -70,7 +70,7 @@
     </tr>
     <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59404">여러기준으로 정렬하기</td>
-      <td>MySQL(SELECT)<</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/tree/master/programmers">MySQL(SELECT)</td>
       <td>낮음</td>
       <td>2019.10.15</td>
     </tr>
