@@ -49,7 +49,7 @@
     </tr>
      <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12928">약수의 합</td>
-      <td>Java</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9">Java</td>
       <td>1</td>
       <td>2019.10.15</td>
     </tr>
