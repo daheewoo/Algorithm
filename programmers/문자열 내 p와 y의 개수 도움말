@@ -1,0 +1,19 @@
+class Solution {
+    boolean solution(String s) {
+        boolean answer = true;
+        s = s.toUpperCase();    //모두 대문자로 만들기
+        int p =0;  //p의 갯수를 저장할 변수
+        int y = 0; //y의 갯수를 저장할 변수
+        for(int i=0; i<s.length();i++){
+            if(s.substring(i,i+1).equals("P")){
+                p++;
+            } else if(s.substring(i,i+1).equals("Y")){
+                y++;
+            }
+        }
+        if(p!=y){
+            answer = false;
+        }
+        return answer;
+    }
+}
