@@ -94,7 +94,7 @@
     </tr>
     <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59042">여러기준으로 정렬하기</td>
-      <td><a href="https://github.com/daheewoo/Algorithm/commit/d2bfd824c39fbb74fc72c0b196c6a25c22e0fad4">MySQL(JOIN)</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/%EC%97%86%EC%96%B4%EC%A7%84%20%EA%B8%B0%EB%A1%9D">MySQL(JOIN)</td>
       <td>3</td>
       <td>2019.10.17</td>
     </tr>
