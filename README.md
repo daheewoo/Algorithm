@@ -106,7 +106,7 @@
     </tr>
     <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59405">상위 n개 레코드</td>
-      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/%EC%83%81%EC%9C%84%20n%EA%B0%9C%20%EB%A0%88%EC%BD%94%EB%93%9C">MySQL(JOIN)</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/%EC%83%81%EC%9C%84%20n%EA%B0%9C%20%EB%A0%88%EC%BD%94%EB%93%9C">MySQL(SELECT)</td>
       <td>1</td>
       <td>2019.10.18</td>
     </tr>
