@@ -110,4 +110,10 @@
       <td>1</td>
       <td>2019.10.18</td>
     </tr>
+    <tr>
+      <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59412">입양 시각 구하기(1)</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/%EC%9E%85%EC%96%91%20%EC%8B%9C%EA%B0%81%20%EA%B5%AC%ED%95%98%EA%B8%B0(1)">MySQL(GROUP BY)</td>
+      <td>2</td>
+      <td>2019.10.21</td>
+    </tr>
   </table>  
