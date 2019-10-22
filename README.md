@@ -116,4 +116,10 @@
       <td>2</td>
       <td>2019.10.21</td>
     </tr>
+   <tr>
+      <td><a href="https://programmers.co.kr/learn/courses/30/lessons/59411">오랜 기간 보호한 동물(2)</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/%EC%98%A4%EB%9E%9C%20%EA%B8%B0%EA%B0%84%20%EB%B3%B4%ED%98%B8%ED%95%9C%20%EB%8F%99%EB%AC%BC(2)">MySQL(String, Date)</td>
+      <td>3</td>
+      <td>2019.10.22</td>
+    </tr>
   </table>  
