@@ -1,0 +1,5 @@
+SELECT A.ANIMAL_ID, A.NAME
+  FROM ANIMAL_INS A
+  INNER JOIN ANIMAL_OUTS B ON(A.ANIMAL_ID=B.ANIMAL_ID) //입양간 동물과 보호소에 있는 동물 중, INNER JOIN을 통해서 공통부분을 찾음
+  ORDER BY B.DATETIME-A.DATETIME DESC //보호기간을 알기 위해 입야간날짜에서 보호소에 들어온 날짜를 빼주고, 큰 순서로 정렬함
+  LIMIT 2 ; //두개의 값만 뽑기 위해서 LIMIT
