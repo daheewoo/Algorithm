@@ -67,7 +67,7 @@
     </tr>
         <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12901">2016년</td>
-      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80%20y%EC%9D%98%20%EA%B0%9C%EC%88%98">Java</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/2016%EB%85%84">Java</td>
       <td>1</td>
       <td>2019.12.07</td>
     </tr>
