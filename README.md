@@ -135,7 +135,7 @@
       <td>2019.10.22</td>
     </tr>
   </table>   
-  <h3>leetcode</h3>
+  <h3>LeetCode</h3>
 <hr></hr>
   <table>
     <th>Title</th>
