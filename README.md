@@ -143,8 +143,7 @@
     <th>Difficulty</th>
     <th>Date</th>
   <tr>
-    <td>Roman to Integer</td>
-    <td>https://leetcode.com/problems/roman-to-integer/</td>
+    <td><a href="https://leetcode.com/problems/roman-to-integer/">Roman to Integer</td>
     <td></td>
     <td>easy</td>
     <td></td>
