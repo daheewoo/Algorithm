@@ -71,11 +71,17 @@
       <td>1</td>
       <td>2019.10.16</td>
     </tr>
-        <tr>
+    <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12901">2016년</td>
       <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/2016%EB%85%84">Java</td>
       <td>1</td>
       <td>2019.12.07</td>
+    </tr>
+     <tr>
+      <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12917">문자열 내림차순으로 배치하기</td>
+      <td><a href="">Java</td>
+      <td>1</td>
+      <td>2019.12.31</td>
     </tr>
   </table>  
 <hr>
