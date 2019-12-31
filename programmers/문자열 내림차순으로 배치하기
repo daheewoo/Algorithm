@@ -2,6 +2,7 @@ import java.util.*;
 
 class Solution {
   public String solution(String s) {
+      //풀이 1
       String answer = "";
       String[] Arr = s.split(""); //String클래스의 split메서드를 이용해서 각 문자 배열로만들기
       
@@ -12,5 +13,19 @@ class Solution {
 	  }
       
       return answer;
+      
+      /*
+      풀이2
+      char[] chArr = s.toCharArray(); 	//문자열 char배열로 만들기
+      
+      Arrays.sort(chArr);		//sort메서드를 이용하여 오름차순 정렬
+      
+      StringBuffer str = new StringBuffer(String.valueOf(chArr));
+      str = str.reverse();
+      
+      return str.toString();
+      
+      
+      */
   }
 }
