@@ -85,9 +85,9 @@
     </tr>
     <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12950">행렬의 덧셈</td>
-      <td><a href="">Java</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88">Java</td>
       <td>1</td>
-      <td></td>
+      <td>2020.01.03</td>
     </tr>
   </table>  
 <hr>
