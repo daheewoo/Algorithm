@@ -91,7 +91,7 @@
     </tr>
     <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12899">124 나라의 숫자</td>
-      <td><a href="">Java</td>
+      <td>Java</td>
       <td>2</td>
       <td></td>
     </tr>
