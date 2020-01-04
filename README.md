@@ -30,8 +30,8 @@
       <td>2019.09</td>
     </tr>
     <tr>
-      <td>평균 구하기</td>
-      <td>Java</td>
+      <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12944">평균 구하기</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/tree/master/programmers">Java</td>
       <td>1</td>
       <td>2019.09</td>
     </tr>
