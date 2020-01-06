@@ -48,7 +48,7 @@
       <td>2019.09</td>
     </tr>
     <tr>
-      <td>두 정수 사이의 합</td>
+      <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12912">두 정수 사이의 합</td>
       <td>Java</td>
       <td>1</td>
       <td>2019.09</td>
