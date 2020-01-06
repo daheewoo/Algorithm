@@ -49,7 +49,7 @@
     </tr>
     <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12912">두 정수 사이의 합</td>
-      <td>Java</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9">Java</td>
       <td>1</td>
       <td>2019.09</td>
     </tr>
