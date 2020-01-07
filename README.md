@@ -36,8 +36,8 @@
       <td>2019.09</td>
     </tr>
     <tr>
-      <td>자릿수 더하기</td>
-      <td>Java</td>
+      <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12931">자릿수 더하기</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0">Java</td>
       <td>1</td>
       <td>2019.09</td>
     </tr>
