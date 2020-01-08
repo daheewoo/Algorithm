@@ -1,0 +1,16 @@
+class Solution {
+  public String solution(int n) {
+      String answer = "";
+      String water = "수";
+      String melon = "박";
+      
+      for (int i=0; i<n; i++) {
+          if (i%2==0) {
+              answer += water;
+          } else {
+              answer += melon;
+          }
+      }
+      return answer;
+  }
+}
