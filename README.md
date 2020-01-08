@@ -43,7 +43,7 @@
     </tr>
     <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12922">수박수박수박수박수박수?</td>
-      <td>Java</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F">Java</td>
       <td>1</td>
       <td>2019.09</td>
     </tr>
