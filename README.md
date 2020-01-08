@@ -42,7 +42,7 @@
       <td>2019.09</td>
     </tr>
     <tr>
-      <td>수박수박수박수박수박수?</td>
+      <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12922">수박수박수박수박수박수?</td>
       <td>Java</td>
       <td>1</td>
       <td>2019.09</td>
