@@ -155,7 +155,7 @@
     </tr>
   </table>   
   <h3>LeetCode</h3>
-  <h5><a href="https://leetcode.com/discuss/career/449135/how-to-effectively-use-leetcode-to-prepare-for-interviews">How to effectively use LeetCode</h5>
+  <h5><a href="https://leetcode.com/discuss/career/449135/how-to-effectively-use-leetcode-to-prepare-for-interviews">How to effectively use LeetCode</a>를 참고하여 알고리즘을 풀었습니다.</h5>
 <hr></hr>
   <table>
     <th>Title</th>
