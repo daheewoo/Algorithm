@@ -97,9 +97,9 @@
     </tr>
     <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12932">자연수 뒤집어 배열로 만들기</td>
-      <td>Java</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0">Java</td>
       <td>1</td>
-      <td></td>
+      <td>2020.01.16</td>
     </tr>
   </table>  
   <!-- ////////////////////////////////////////// sql ////////////////////////////////////////// -->
