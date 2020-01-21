@@ -1,0 +1,14 @@
+class Solution {
+    public int romanToInt(String s) {  
+        //Map을 이용하여 문자에 
+        Map<Character, Integer> romanValues = new HashMap<>();
+        romanValues.put('I', 1);
+        romanValues.put('V', 5);
+        romanValues.put('X', 10);
+        romanValues.put('L', 50);
+        romanValues.put('C', 100);
+        romanValues.put('D', 500);
+        romanValues.put('M', 1000);
+
+    }
+}
