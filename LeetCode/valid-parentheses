@@ -1,0 +1,16 @@
+//testCase : ()
+
+class Solution {
+    public boolean isValid(String s) {
+        //String 문자열을 char형 배열로 만들어서 저장하기
+        char[] sArray = s.toCharArray();
+        
+        //testresult --> ["(", ")"] 잘들어옴!
+        String testresult = "";
+        for(int i=0; i<sArray.length;i++){
+            testresult += sArray[i] +" ";
+        }
+        
+        return true;
+    }
+}
