@@ -173,5 +173,11 @@
     <td></td>
     <td>easy</td>
     <td></td>
+  </tr> 
+  <tr>
+    <td><a href="https://leetcode.com/problems/valid-parentheses/">valid-parentheses</td>
+    <td></td>
+    <td>easy</td>
+    <td></td>
   </tr>  
   </table>
