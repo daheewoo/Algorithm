@@ -103,7 +103,7 @@
     </tr>
     <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12954">x만큼 간격이 있는 n개의 숫자</td>
-      <td><a href="">Java</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90">Java</td>
       <td>1</td>
       <td>2020.01.25</td>
     </tr>
