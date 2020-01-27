@@ -25,13 +25,13 @@
     </tr>
     <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12948" rel="nofollow">핸드폰 번호 가리기</td>
-      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0">Java</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/Level1/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0">Java</td>
       <td>1</td>
       <td>2019.09</td>
     </tr>
     <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12944">평균 구하기</td>
-      <td><a href="https://github.com/daheewoo/Algorithm/tree/master/programmers">Java</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/Level1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0">Java</td>
       <td>1</td>
       <td>2019.09</td>
     </tr>
@@ -85,7 +85,7 @@
     </tr>
     <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12950">행렬의 덧셈</td>
-      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88">Java</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/Level1/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88">Java</td>
       <td>1</td>
       <td>2020.01.03</td>
     </tr>
@@ -97,13 +97,13 @@
     </tr>
     <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12932">자연수 뒤집어 배열로 만들기</td>
-      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0">Java</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/Level1/%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0">Java</td>
       <td>1</td>
       <td>2020.01.16</td>
     </tr>
     <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12954">x만큼 간격이 있는 n개의 숫자</td>
-      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90">Java</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/Level1/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90">Java</td>
       <td>1</td>
       <td>2020.01.25</td>
     </tr>
