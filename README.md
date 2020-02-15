@@ -1,4 +1,4 @@
-# Algorithm
+# Algorithm 
 <div>
   문제 이름을 누르면 해당 문제 사이트로 이동하고, <br>
   solution을 누르면 풀이방식으로 넘어갑니다. <br>
