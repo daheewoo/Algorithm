@@ -1,0 +1,22 @@
+import java.util.*;
+
+class Solution {
+    public long solution(long n) {
+        
+        String tmpNum = String.valueOf(n); //Integer.toString(n); long으로 주어진 숫자임을 주의하자
+        String strNum  = new String();
+        
+        String[] numArray = new String[tmpNum.length() +1 ]; 
+        numArray = tmpNum.split("");
+        
+        Arrays.sort(numArray, Comparator.reverseOrder());
+        
+        for(String i : numArray){
+            strNum += i;
+        }
+        
+        return Long.parseLong(strNum);
+        //return Integer.parseInt(strNum); //반환값이 long이었음을 주의하자
+        //return n;
+    }
+}
