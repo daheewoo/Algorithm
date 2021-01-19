@@ -119,6 +119,12 @@
       <td>1</td>
       <td>2021.01.13</td>
     </tr>
+     <tr>
+      <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12935">제일 작은 수 제거하기</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0">Java</td>
+      <td>1</td>
+      <td>2021.01.19</td>
+    </tr>
   </table>  
   <!-- ////////////////////////////////////////// sql ////////////////////////////////////////// -->
 <hr>
