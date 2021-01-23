@@ -125,6 +125,12 @@
       <td>1</td>
       <td>2021.01.19</td>
     </tr>
+    <tr>
+      <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42748">K번째수</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/commit/34241d3cf43b78f40662d358e9bdbd3412aa1296">Java</td>
+      <td>1</td>
+      <td>2021.01.23</td>
+    </tr>
   </table>  
   <!-- ////////////////////////////////////////// sql ////////////////////////////////////////// -->
 <hr>
