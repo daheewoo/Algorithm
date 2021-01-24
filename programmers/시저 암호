@@ -1,0 +1,21 @@
+class Solution {
+    public String solution(String s, int n) {
+        String answer = "";
+        int asciiNum = 0;
+        
+        for(int i=0; i<s.length(); i++){
+            asciiNum = s.charAt(i) + n;
+            
+            if(s.charAt(i) >= 'a' && s.charAt(i) <= 'z'){
+                asciiNum = asciiNum > (int)'z' ? (asciiNum - 26) : asciiNum;
+            }else if(s.charAt(i) >= 'A' && s.charAt(i) <= 'Z'){
+                asciiNum = asciiNum > (int)'Z' ? (asciiNum - 26) : asciiNum;
+            }else {
+                asciiNum = (int)' ';
+            }
+             answer += (char)asciiNum;
+        }
+        
+        return answer;
+    }
+}
