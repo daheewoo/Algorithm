@@ -149,6 +149,12 @@
       <td>1</td>
       <td>2021.02.17</td>
     </tr>
+    <tr>
+      <td><a href="https://programmers.co.kr/learn/courses/30/lessons/68935">3진법 뒤집기</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/commit/b3f074c849d9b241bbb24e3c56be3189995490bc">Java</td>
+      <td>1</td>
+      <td>2021.02.20</td>
+    </tr>
   </table>  
   <!-- ////////////////////////////////////////// sql ////////////////////////////////////////// -->
 <hr>
