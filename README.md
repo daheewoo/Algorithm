@@ -17,11 +17,19 @@
     <th>Solution</th>
     <th>Difficulty</th>
     <th>Date</th>
+    <th>Title</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Date</th>
     <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12969" rel="nofollow">직사각형 별찍기</td>
       <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EB%B3%84%EC%B0%8D%EA%B8%B0">Java</td>
       <td>1</td>
       <td>2019.09</td>
+      <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42576" rel="nofollow">완주하지못한선수</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/commit/b2073ade149cf7284bb67a62e8b642f9aaf69ff8">Java</td>
+      <td>1</td>
+      <td>2021.02.21</td>
     </tr>
     <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12948" rel="nofollow">핸드폰 번호 가리기</td>
