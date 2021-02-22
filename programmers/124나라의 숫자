@@ -1,0 +1,22 @@
+import java.util.*;
+import java.lang.*; 
+
+class Solution {
+    public String solution(int n) {
+        String answer = "";
+        StringBuilder sb = new StringBuilder();
+        
+        while(n > 0){
+            int reamainder = n % 3;
+            if(reamainder == 0){
+                sb.insert(0 , "4");
+                n = n-1;
+            }else{
+                sb.insert(0, reamainder + "");
+                n = n / 3;
+            }
+        }
+        return sb.toString();
+    }
+}
+
