@@ -90,12 +90,6 @@
       <td>2020.01.03</td>
     </tr>
     <tr>
-      <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12899">124 나라의 숫자</td>
-      <td>Java</td>
-      <td>2</td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12932">자연수 뒤집어 배열로 만들기</td>
       <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/Level1/%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0">Java</td>
       <td>1</td>
@@ -160,6 +154,12 @@
       <td><a href="https://github.com/daheewoo/Algorithm/commit/b2073ade149cf7284bb67a62e8b642f9aaf69ff8">Java</td>
       <td>1</td>
       <td>2021.02.21</td>
+    </tr>
+    <tr>
+      <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12899">124 나라의 숫자</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/blob/master/programmers/124%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90">Java</td>
+      <td>2</td>
+      <td>2021.02.23</td>
     </tr>
   </table>  
   <!-- ////////////////////////////////////////// sql ////////////////////////////////////////// -->
