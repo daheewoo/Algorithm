@@ -1,0 +1,18 @@
+class Solution {
+    public int[] solution(int brown, int yellow) {
+        int[] answer = {};
+        int carpetLen = brown + yellow;
+        
+        for(int i=1; i<= carpetLen; i++){
+            if(i == (carpetLen / i)){
+                answer = new int[]{i, i};
+                break;
+            }else if((i>(carpetLen / i)) && (carpetLen % i) == 0){
+                answer = new int[]{i , carpetLen / i};
+                break;
+            }
+        }
+        
+        return answer;
+    }
+}
