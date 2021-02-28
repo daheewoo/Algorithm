@@ -15,6 +15,7 @@ class Solution {
 
                 if(yCol*yRow == yellow && col >= row){
                     answer = new int[]{col , row};
+                    break; //탐색 시간을 줄이기 위해 추가
                 }
             }
         }
