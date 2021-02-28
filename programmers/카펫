@@ -2,17 +2,23 @@ class Solution {
     public int[] solution(int brown, int yellow) {
         int[] answer = {};
         int carpetLen = brown + yellow;
-        
+
         for(int i=1; i<= carpetLen; i++){
-            if(i == (carpetLen / i)){
-                answer = new int[]{i, i};
-                break;
-            }else if((i>(carpetLen / i)) && (carpetLen % i) == 0){
-                answer = new int[]{i , carpetLen / i};
-                break;
+            if(carpetLen%i == 0){
+                //전체 직사각형
+                int col = carpetLen / i;    
+                int row = carpetLen / col; 
+
+                //노란색 직사각형
+                int yCol = col - 2;
+                int yRow = row - 2;
+
+                if(yCol*yRow == yellow && col >= row){
+                    answer = new int[]{col , row};
+                }
             }
         }
-        
+
         return answer;
     }
 }
