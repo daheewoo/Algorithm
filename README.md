@@ -246,4 +246,10 @@
     <td>easy</td>
     <td></td>
   </tr>  
+  <tr>
+    <td><a href="https://leetcode.com/problems/happy-number/">happy number</td>
+    <td><a href="https://github.com/daheewoo/Algorithm/commit/7bdc2800f1300e66ce07b9220aae0e42944427fd">java</td>
+    <td>easy</td>
+    <td>2021.03.05</td>
+  </tr> 
   </table>
