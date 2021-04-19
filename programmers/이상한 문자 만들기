@@ -1,0 +1,27 @@
+import java.util.*;
+
+class Solution {
+  public String solution(String s) {
+      String[] word = s.split(" ",-1);
+      int wordLen = word.length;
+      StringBuilder sb = new StringBuilder();
+      
+      for(int i=0; i < wordLen ; i++){
+          String[] alp = word[i].split("");
+          int alpLen = alp.length;
+          
+          for(int j=0; j < alpLen ; j++){
+              if(j%2 == 0){
+                  sb.append(alp[j].toUpperCase());
+              } else {
+                  sb.append(alp[j].toLowerCase());
+              }
+          }
+          if(i != (wordLen-1)){
+              sb.append(" ");
+          }
+      }
+      
+      return sb.toString();
+  }
+}
