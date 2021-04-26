@@ -173,6 +173,12 @@
       <td>1</td>
       <td>2021.04.19</td>
     </tr>
+    <tr>
+      <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12906">같은 숫자는 싫어</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/commit/1730f99ebb623efbd9c0ac2f3bb37afc33dfc951">Java</td>
+      <td>1</td>
+      <td>2021.04.26</td>
+    </tr>
   </table>  
   <!-- ////////////////////////////////////////// sql ////////////////////////////////////////// -->
 <hr>
