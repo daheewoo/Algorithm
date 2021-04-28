@@ -1,0 +1,18 @@
+class Solution {
+    public void rotate(int[] nums, int k) {
+        while(k>0){
+        int firstNum = nums[0];
+
+        int numLen = nums.length;
+
+        for(int i= numLen-1; i>=0 ; i--){
+         if(i==0){
+           nums[(i+1)%numLen] = firstNum;
+         }else{
+          nums[(i+1)%numLen] = nums[i%numLen];
+         }
+        }
+         k--;
+        }
+    }
+}
