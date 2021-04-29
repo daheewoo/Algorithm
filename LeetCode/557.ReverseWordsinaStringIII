@@ -1,0 +1,25 @@
+import java.util.*;
+
+class Solution {
+    public String reverseWords(String s) {
+         // 1. 각 문자열을 공백을 기준으로 잘라줌 
+        String[] wordArr = s.split(" ", -1);
+
+        //2. 
+        int wordLen = wordArr.length;
+        StringBuilder answer = new StringBuilder();
+        String teest = "test";
+
+        for(int i=0; i< wordLen; i++){
+         for(int j=wordArr[i].length()-1; j>=0 ; j--){
+           answer.append(wordArr[i].charAt(j));
+         }
+
+         if(i != (wordLen-1)){
+           answer.append(" ");
+         }
+        }
+
+        return answer.toString();
+    }
+}
