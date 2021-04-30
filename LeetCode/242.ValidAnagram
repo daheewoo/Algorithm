@@ -15,7 +15,18 @@ class Solution {
       char[] wordArr = word.toCharArray();
 
       Arrays.sort(wordArr);
-        
+      
+      //처음에 구현했던 코드 , time limited 오류 
+      //for(int i= 0; i<(wordArr.length -1); i++){
+      //for(int j = i+1;j>0;j--){
+      //    if(wordArr[j]<wordArr[j-1]){
+      //        char temp=wordArr[j-1];
+      //        wordArr[j-1]=wordArr[j];
+      //        wordArr[j]=temp;
+      //    }
+      //}
+      //}
+      
       return String.valueOf(wordArr);
     }
 }
