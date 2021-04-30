@@ -1,0 +1,21 @@
+import java.util.*;
+
+class Solution {
+    public boolean isAnagram(String s, String t) {
+        boolean answer = true;
+
+        if(!sortFunc(s).equals(sortFunc(t)))
+          answer = false;
+
+
+        return answer;
+    }
+    
+    public String sortFunc(String word){
+      char[] wordArr = word.toCharArray();
+
+      Arrays.sort(wordArr);
+        
+      return String.valueOf(wordArr);
+    }
+}
