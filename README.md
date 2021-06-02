@@ -185,6 +185,12 @@
       <td>2</td>
       <td>2021.05.17</td>
     </tr>
+    <tr>
+      <td><a href="https://programmers.co.kr/learn/courses/30/lessons/12985">예상 대진표</td>
+      <td><a href="https://github.com/daheewoo/Algorithm/commit/f66084412dbebbd70ce782530e9135f4510892fc">Java</td>
+      <td>2</td>
+      <td>2021.06.02</td>
+    </tr>
   </table>  
   <!-- ////////////////////////////////////////// sql ////////////////////////////////////////// -->
 <hr>
