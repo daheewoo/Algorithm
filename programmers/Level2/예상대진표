@@ -1,0 +1,20 @@
+class Solution
+{
+    public int solution(int n, int a, int b)
+    {
+        int roundCnt = 0;
+        while(a != b){
+            roundCnt ++;
+
+            a = nextCnt(a);
+            b = nextCnt(b);
+        }
+
+        return roundCnt;
+    }
+    
+    public int nextCnt (int turn) {
+           return  turn/2 + turn%2;
+    }
+    
+}
