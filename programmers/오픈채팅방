@@ -1,0 +1,29 @@
+import java.util.*;
+
+class Solution {
+    public String[] solution(String[] record) {
+        HashMap<String, String> resultMap = new HashMap<>();
+        ArrayList<String> resultArr = new ArrayList<>();
+        String[] arrRecord ;  
+        
+        for(int i=0; i<record.length; i++){
+            arrRecord = record[i].split(" ");
+        	if(arrRecord.length > 2){
+        		resultMap.put(arrRecord[1], arrRecord[2]);
+        	}
+        }
+        
+        for(int i=0; i<record.length; i++){
+        	if(record[i].split(" ")[0].toUpperCase().equals("ENTER")){
+                //resultMap.put(record[i].split(" ")[1] , record[i].split(" ")[2]);
+                resultArr.add(resultMap.get(record[i].split(" ")[1]) +"님이 들어왔습니다.");
+            }else if (record[i].split(" ")[0].toUpperCase().equals("LEAVE")){
+                resultArr.add(resultMap.get(record[i].split(" ")[1]) +"님이 나갔습니다.");
+            }
+        }
+        
+        String[] answer = resultArr.toArray(new String[0]);
+        
+        return answer;
+    }
+}
